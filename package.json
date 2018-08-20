@@ -1,0 +1,12 @@
+{
+  "name": "better_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.7.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
